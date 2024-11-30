@@ -1,15 +1,48 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋  
 
+Hi there! I'm **Andreas Zachariou**, a passionate **Data Analytics Student** 🚀 currently exploring the world of data and its infinite possibilities.  
 
-**andreas-zac/andreas-zac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I love working with a variety of tools and technologies to analyze, visualize, and extract insights from data. Here's what I use regularly:  
+
+- **Programming Languages**:  
+  - 🐍 Python: For data cleaning, analysis, and machine learning  
+  - 📊 SQL: For querying and managing databases  
+
+- **Data Visualization Tools**:  
+  - 📈 Tableau: To create stunning and interactive dashboards  
+
+---
+
+## 🌟 What I’m Learning  
+
+I’m continually honing my skills to stay ahead in the data analytics field. Currently, I’m focused on:  
+- Enhancing my proficiency in **Python libraries** like Pandas, NumPy, and Matplotlib  
+- Mastering advanced **SQL** queries and database optimization  
+- Building **Tableau dashboards** that tell compelling stories  
+
+---
+
+## 🔍 Areas of Interest  
+
+I’m particularly fascinated by:  
+- Data storytelling and visualization  
+- Predictive analytics and machine learning  
+- Automating data workflows  
+
+---
+
+## 📫 How to Reach Me  
+
+Feel free to connect with me to collaborate, share ideas, or just chat about data!  
+- [LinkedIn](https://www.linkedin.com/in/andreas-zachariou/)  
+- [Email](mailto:zachariouandrew@gmail.com)  
+
+---
+
+💡 *"Data is the oil of the 21st century, and analytics is the combustion engine."*  
+
+Thanks for visiting my profile! 😊 Keep exploring and happy coding!
